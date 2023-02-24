@@ -1,0 +1,3 @@
+streamlit
+pyserial
+package(Created Of Me)
